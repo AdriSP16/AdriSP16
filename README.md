@@ -11,8 +11,8 @@ I don't have professional work experience yet, but I'm eager to apply my skills 
 
 ## **Contact** 🌐
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adrián-sabino-pérez-2b20a7278)
-- [![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adrsabper@gmail.com) (Correo Principal -> adrsabper@gmail.com)
-- [![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adr16persab@gmail.com) (Correo Secundario -> adr16persab@gmail.com)
+- [![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adrsabper@gmail.com) (Main E-mail -> adrsabper@gmail.com)
+- [![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adr16persab@gmail.com) (Secondary E-mail -> adr16persab@gmail.com)
 
 
 
