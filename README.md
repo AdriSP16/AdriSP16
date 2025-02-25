@@ -2,9 +2,17 @@
 
 ## **About me** ⭐
 
+### English:
+
 I'm **Adrián**, a **Higher Technician in Cross-Platform Development** 💻 and a **Fullstack Developer** with a strong passion for **Android development** 📱. I'm currently expanding my knowledge in **Cybersecurity** 🔐 and working towards becoming a **Junior Cybersecurity Analyst**. Although I am focusing on cybersecurity at the moment, I continue to actively learn new ways to develop software and stay on top of the latest trends in **software development** 🚀.
 
 I don't have professional work experience yet, but I'm eager to apply my skills and continue growing professionally. My goal is to become proficient in both **cybersecurity** and **software development**, tackling real-world challenges and contributing to the digital world 🌐.
+
+### Castilian:
+
+Soy Adrián, Técnico Superior en Desarrollo de Aplicaciones Multiplataforma 💻 y Desarrollador Fullstack con una gran pasión por el desarrollo Android 📱. Actualmente estoy ampliando mis conocimientos en Ciberseguridad 🔐 y trabajando para convertirme en Analista Junior de Ciberseguridad. Aunque ahora mismo me estoy enfocando en la ciberseguridad, sigo aprendiendo activamente nuevas formas de desarrollar software y mantenerme al día con las últimas tendencias en desarrollo de software 🚀.
+
+Aún no tengo experiencia profesional, pero tengo muchas ganas de aplicar mis habilidades y seguir creciendo profesionalmente. Mi objetivo es llegar a ser competente tanto en ciberseguridad como en desarrollo de software, enfrentando desafíos del mundo real y contribuyendo al mundo digital 🌐.
 
 ## **Contacts** 🌐
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adrián-sabino-pérez-2b20a7278)
@@ -72,6 +80,14 @@ I don't have professional work experience yet, but I'm eager to apply my skills 
 
 ---
 
+### English:
+
 I'm excited to continue developing both my coding and cybersecurity skills to build secure and scalable applications for the future! 🚀
 
 Feel free to connect or talk about technology, cybersecurity, or development. Don't hesitate to reach out! 🤗
+
+### Castilian:
+
+¡Estoy emocionado de seguir desarrollando tanto mis habilidades en programación como en ciberseguridad para construir aplicaciones seguras y escalables para el futuro! 🚀
+
+No dudes en conectar o hablar sobre tecnología, ciberseguridad o desarrollo. ¡No dudes en ponerte en contacto! 🤗
