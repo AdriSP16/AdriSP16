@@ -6,20 +6,12 @@ I'm **Adrián**, a **Higher Technician in Cross-Platform Development** 💻 and 
 
 I don't have professional work experience yet, but I'm eager to apply my skills and continue growing professionally. My goal is to become proficient in both **cybersecurity** and **software development**, tackling real-world challenges and contributing to the digital world 🌐.
 
-
-
-
 ## **Contact** 🌐
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adrián-sabino-pérez-2b20a7278)
 - [![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adrsabper@gmail.com) (Main E-mail -> adrsabper@gmail.com)
 - [![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adr16persab@gmail.com) (Secondary E-mail -> adr16persab@gmail.com)
 
-
-
-
-## **Tech Stack** 💻
-
-### **Soft Skills** 🤝
+## **Soft Skills** 🤝
 - Effective communication 💬
 - Teamwork 👥
 - Problem-solving 🧠
@@ -27,7 +19,7 @@ I don't have professional work experience yet, but I'm eager to apply my skills 
 - Adaptability to change 🔄
 - Critical thinking 💡
 
-### **Tech Skills** 👨🏻‍💻
+## **Tech Skills** 👨🏻‍💻
 
 #### **Frontend** 🖥️
 - ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
