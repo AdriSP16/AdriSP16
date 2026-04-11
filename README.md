@@ -11,7 +11,7 @@ I'm highly motivated to apply my skills and continue growing professionally. My 
 
 ### Castilian 🇪🇸
 
-Soy Adrián, Técnico Superior en Desarrollo de Aplicaciones Multiplataforma 💻 y Desarrollador Fullstack con una gran pasión por el desarrollo **web y movil** 📱. Actualmente estoy ampliando mis conocimientos tanto en **Ciberseguridad** 🔐(a través de cursos online), como en **Psicología** 🧠(a través de una carrera de Psicologia en la UNED), esforzandome para convertirme en un futuro **Analista en Ciberseguridad** o en un futuro **Desarrollador / Ingeniero de Software**. 
+Soy Adrián, Técnico Superior en Desarrollo de Aplicaciones Multiplataforma 💻 y Desarrollador Fullstack con una gran pasión por el desarrollo **web y móvil** 📱. Actualmente estoy ampliando mis conocimientos tanto en **Ciberseguridad** 🔐(a través de cursos online), como en **Psicología** 🧠(a través de una carrera de Psicología en la UNED), esforzándome para convertirme en un futuro **Analista en Ciberseguridad** o en un futuro **Desarrollador / Ingeniero de Software**. 
 Aunque ahora mismo me estoy enfocando en la ciberseguridad y en la psicología, sigo aprendiendo activamente nuevas formas de desarrollar software y mantenerme al día con las últimas tendencias en **desarrollo de software** 🚀.
 
 Tengo muchas ganas de aplicar mis habilidades y seguir creciendo profesionalmente. Mi objetivo es llegar a ser competente tanto en ciberseguridad como en desarrollo de software y también en puestos IT donde pueda hacer uso de mis conocimientos en psicología, enfrentando desafíos del mundo real y contribuyendo al mundo digital 🌐.
@@ -43,11 +43,6 @@ Tengo muchas ganas de aplicar mis habilidades y seguir creciendo profesionalment
 - ![Dart](https://img.shields.io/badge/Dart-00B4A2?style=for-the-badge&logo=dart&logoColor=white)
 - ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 - ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-
-#### **Most Used Languages** 🔝
-- ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-- ![Dart](https://img.shields.io/badge/Dart-00B4A2?style=for-the-badge&logo=dart&logoColor=white)
-- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 #### **Frameworks** 🛠️
 - ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
