@@ -4,15 +4,17 @@
 
 ### English 🇬🇧
 
-I'm **Adrián**, a **Higher Technician in Cross-Platform Development** 💻 and a **Fullstack Developer** with a strong passion for **Android development** 📱. I'm currently expanding my knowledge in **Cybersecurity** 🔐 and working towards becoming a **Junior Cybersecurity Analyst**. Although I am focusing on cybersecurity at the moment, I continue to actively learn new ways to develop software and stay on top of the latest trends in **software development** 🚀.
+I'm Adrián, a **Higher Technician in Multiplatform Application Development** 💻 and a **Fullstack Developer** with a strong passion for **web and mobile development** 📱. I am currently expanding my knowledge in Cybersecurity 🔐(through online courses), as well as in Psychology 🧠(by pursuing a Psychology degree at UNED), working towards becoming a Cybersecurity Analyst or a Software Developer / Engineer in the future. 
+Although I'm currently focusing on cybersecurity and psychology, I continue to actively learn new ways to develop software and stay up to date with the latest trends in software development 🚀.
 
-I don't have professional work experience yet, but I'm eager to apply my skills and continue growing professionally. My goal is to become proficient in both **cybersecurity** and **software development**, tackling real-world challenges and contributing to the digital world 🌐.
+I'm highly motivated to apply my skills and continue growing professionally. My goal is to become proficient in both cybersecurity and software development, as well as to work in IT roles where I can leverage my knowledge of psychology—facing real-world challenges and contributing to the digital world 🌐.
 
 ### Castilian 🇪🇸
 
-Soy Adrián, Técnico Superior en Desarrollo de Aplicaciones Multiplataforma 💻 y Desarrollador Fullstack con una gran pasión por el desarrollo Android 📱. Actualmente estoy ampliando mis conocimientos en Ciberseguridad 🔐 y trabajando para convertirme en Analista Junior de Ciberseguridad. Aunque ahora mismo me estoy enfocando en la ciberseguridad, sigo aprendiendo activamente nuevas formas de desarrollar software y mantenerme al día con las últimas tendencias en desarrollo de software 🚀.
+Soy Adrián, Técnico Superior en Desarrollo de Aplicaciones Multiplataforma 💻 y Desarrollador Fullstack con una gran pasión por el desarrollo **web y movil** 📱. Actualmente estoy ampliando mis conocimientos tanto en **Ciberseguridad** 🔐(a través de cursos online), como en **Psicología** 🧠(a través de una carrera de Psicologia en la UNED), esforzandome para convertirme en un futuro **Analista en Ciberseguridad** o en un futuro **Desarrollador / Ingeniero de Software**. 
+Aunque ahora mismo me estoy enfocando en la ciberseguridad y en la psicología, sigo aprendiendo activamente nuevas formas de desarrollar software y mantenerme al día con las últimas tendencias en **desarrollo de software** 🚀.
 
-Aún no tengo experiencia profesional, pero tengo muchas ganas de aplicar mis habilidades y seguir creciendo profesionalmente. Mi objetivo es llegar a ser competente tanto en ciberseguridad como en desarrollo de software, enfrentando desafíos del mundo real y contribuyendo al mundo digital 🌐.
+Tengo muchas ganas de aplicar mis habilidades y seguir creciendo profesionalmente. Mi objetivo es llegar a ser competente tanto en ciberseguridad como en desarrollo de software y también en puestos IT donde pueda hacer uso de mis conocimientos en psicología, enfrentando desafíos del mundo real y contribuyendo al mundo digital 🌐.
 
 ## **Contacts** 🌐
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adrián-sabino-pérez-2b20a7278)
@@ -41,7 +43,6 @@ Aún no tengo experiencia profesional, pero tengo muchas ganas de aplicar mis ha
 - ![Dart](https://img.shields.io/badge/Dart-00B4A2?style=for-the-badge&logo=dart&logoColor=white)
 - ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 - ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-- ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 
 #### **Most Used Languages** 🔝
 - ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
@@ -84,10 +85,10 @@ Aún no tengo experiencia profesional, pero tengo muchas ganas de aplicar mis ha
 
 I'm excited to continue developing both my coding and cybersecurity skills to build secure and scalable applications for the future! 🚀
 
-Feel free to connect or talk about technology, cybersecurity, or development. Don't hesitate to reach out! 🤗
+Feel free to connect or talk about technology, psychology, cybersecurity, or development. Don't hesitate to reach out! 🤗
 
 ### Castilian 🇪🇸
 
 ¡Estoy emocionado de seguir desarrollando tanto mis habilidades en programación como en ciberseguridad para construir aplicaciones seguras y escalables para el futuro! 🚀
 
-No dudes en conectar o hablar sobre tecnología, ciberseguridad o desarrollo. ¡No dudes en ponerte en contacto! 🤗
+No dudes en conectar o hablar sobre tecnología, psicología, ciberseguridad o desarrollo. ¡No dudes en ponerte en contacto! 🤗
