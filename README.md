@@ -69,7 +69,7 @@ Tengo muchas ganas de aplicar mis habilidades y seguir creciendo profesionalment
 
 #### **Game Development** 🎮
 - ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-- ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=godot&logoColor=white)
+- ![Godot](https://img.shields.io/badge/Godot-000000?style=for-the-badge&logo=godot&logoColor=white)
 - ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 #### **Other Technologies** 🤖
